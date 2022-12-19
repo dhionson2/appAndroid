@@ -1,4 +1,4 @@
-package com.harvo.meuapp;
+package com.harvo.meuaoo;
 
 import org.junit.Test;
 
